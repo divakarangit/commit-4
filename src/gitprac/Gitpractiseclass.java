@@ -9,6 +9,7 @@ public class Gitpractiseclass {
 		System.out.println(s);
 				boolean contains = s.contains("ing");
 				System.out.println(contains);
+		System.out.println("check");
 				 
 
 	}
